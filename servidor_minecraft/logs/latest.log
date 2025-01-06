@@ -4094,3 +4094,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 01:34:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD left the game
 [06Jan2025 01:34:37.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxfenixXD[/[::1]:54154] logged in with entity id 15075 at (185.13261291312543, 68.0, -203.55425303663506)
 [06Jan2025 01:34:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD joined the game
+[06Jan2025 01:46:09.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxfenixXD lost connection: Timed out
+[06Jan2025 01:46:09.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD left the game
+[06Jan2025 01:49:13.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxfenixXD[/[::1]:54968] logged in with entity id 17784 at (204.5, 81.0, -143.5)
+[06Jan2025 01:49:13.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD joined the game
+[06Jan2025 01:50:14.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxfenixXD lost connection: Timed out
+[06Jan2025 01:50:14.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD left the game
+[06Jan2025 01:50:25.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxfenixXD[/[::1]:45776] logged in with entity id 18196 at (204.5, 81.0, -143.5)
+[06Jan2025 01:50:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD joined the game
