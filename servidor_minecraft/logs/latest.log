@@ -4030,3 +4030,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 01:09:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 left the game
 [06Jan2025 01:09:55.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAFITO_06[/[::1]:33094] logged in with entity id 6746 at (-102.73303299387909, 94.28549238931866, -116.22564247665645)
 [06Jan2025 01:09:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 joined the game
+[06Jan2025 01:10:53.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD drowned
+[06Jan2025 01:10:53.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has made the advancement [Your First Grave]
+[06Jan2025 01:10:53.587] [Server thread/INFO] [tombstone/]: The player LuxfenixXD has successfully been saved
+[06Jan2025 01:13:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has made the advancement [Stone Age]
+[06Jan2025 01:13:58.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Monster Hunter]
+[06Jan2025 01:14:38.750] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[06Jan2025 01:14:39.252] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[06Jan2025 01:15:01.397] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[06Jan2025 01:15:01.398] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[06Jan2025 01:15:01.398] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[06Jan2025 01:15:01.398] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[06Jan2025 01:15:01.398] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[06Jan2025 01:15:01.399] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[06Jan2025 01:15:01.399] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[06Jan2025 01:15:01.399] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[06Jan2025 01:15:01.399] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[06Jan2025 01:15:01.400] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[06Jan2025 01:15:01.400] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[06Jan2025 01:15:01.401] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-607}
+[06Jan2025 01:15:01.402] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[06Jan2025 01:15:01.402] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[06Jan2025 01:15:01.502] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-630}
+[06Jan2025 01:15:01.503] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-631}
+[06Jan2025 01:15:01.503] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[06Jan2025 01:15:01.503] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[06Jan2025 01:15:01.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[06Jan2025 01:15:01.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[06Jan2025 01:15:01.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[06Jan2025 01:15:01.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[06Jan2025 01:15:01.505] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[06Jan2025 01:15:01.505] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[06Jan2025 01:15:01.505] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[06Jan2025 01:15:01.506] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[06Jan2025 01:15:01.506] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[06Jan2025 01:15:01.506] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[06Jan2025 01:15:07.795] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[06Jan2025 01:15:19.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8175, l='ServerLevel[world]', x=286.72, y=81.00, z=-7.37] died, message: 'Villager suffocated in a wall'
+[06Jan2025 01:15:42.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 moved too quickly! 6.7842271926376725,-7.4651558036295,0.15471352771433544
+[06Jan2025 01:15:43.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8374, l='ServerLevel[world]', x=325.61, y=71.00, z=-14.61] died, message: 'Villager went up in flames'
+[06Jan2025 01:15:43.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8375, l='ServerLevel[world]', x=324.72, y=75.00, z=-14.37] died, message: 'Villager suffocated in a wall'
+[06Jan2025 01:16:50.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [A Seedy Place]
+[06Jan2025 01:17:39.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has made the advancement [Getting an Upgrade]
+[06Jan2025 01:18:22.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> 217 81 -132
+[06Jan2025 01:20:39.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD was slain by Clay Golem
+[06Jan2025 01:20:39.691] [Server thread/INFO] [tombstone/]: The player LuxfenixXD has successfully been saved
