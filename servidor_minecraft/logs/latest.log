@@ -4374,3 +4374,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:50:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has reached the goal [Easy Opening]
 [06Jan2025 04:51:33.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
 [06Jan2025 04:51:44.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 04:53:48.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has reached the goal [Strong Undead]
+[06Jan2025 04:53:48.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has reached the goal [Bring Out Your Dead]
+[06Jan2025 04:54:19.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [With Fire It Writes]
+[06Jan2025 04:57:04.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 04:57:17.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has reached the goal [Bring Out Your Dead]
+[06Jan2025 04:59:14.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 05:01:10.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
+[06Jan2025 05:03:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Isn't It Iron Pick]
+[06Jan2025 05:03:17.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INGCUCHILLO moved too quickly! -7.240941015104909,-0.16477328182606676,-7.025718432530994
+[06Jan2025 05:03:18.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15535ms or 310 ticks behind
+[06Jan2025 05:03:18.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 05:03:18.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 moved too quickly! 12865.851901195161,65.07840000152588,17699.16899188766
