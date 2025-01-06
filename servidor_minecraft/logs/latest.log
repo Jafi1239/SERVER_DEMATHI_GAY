@@ -4162,3 +4162,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 02:49:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> XD
 [06Jan2025 02:49:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> abres el chat con letra T
 [06Jan2025 02:50:48.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> hola
+[06Jan2025 02:54:12.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> 380 88 -9
+[06Jan2025 03:00:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO was shot by Skeleton
+[06Jan2025 03:00:21.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Your First Grave]
+[06Jan2025 03:00:21.114] [Server thread/INFO] [tombstone/]: The player INGCUCHILLO has successfully been saved
+[06Jan2025 03:01:09.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has reached the goal [Here They Come]
+[06Jan2025 03:01:15.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made JAFITO_06 a server operator
+[06Jan2025 03:01:19.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=106, z=26} BlockPos{x=-24, y=105, z=26}
+[06Jan2025 03:01:20.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=106, z=26} BlockPos{x=-24, y=106, z=23}
+[06Jan2025 03:01:23.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=106, z=26} BlockPos{x=-24, y=107, z=20}
+[06Jan2025 03:01:23.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=106, z=26} BlockPos{x=-24, y=107, z=21}
+[06Jan2025 03:01:23.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=106, z=26} BlockPos{x=-24, y=107, z=22}
+[06Jan2025 03:01:24.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=106, z=26} BlockPos{x=-24, y=107, z=22}

@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "7af433c2-096b-305c-9ee9-0e798d6e0edc",
+    "name": "JAFITO_06",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
