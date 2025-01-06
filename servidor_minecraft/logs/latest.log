@@ -4022,3 +4022,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 00:58:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuxfenixXD> aguanta
 [06Jan2025 00:59:16.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 was slain by Goblin Thief
 [06Jan2025 00:59:16.184] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 01:04:17.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has made the advancement [Alex's Mobs]
+[06Jan2025 01:08:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 was slain by Meature
+[06Jan2025 01:08:46.181] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 01:09:40.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 was kicked for floating too long!
+[06Jan2025 01:09:40.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 lost connection: Flying is not enabled on this server
+[06Jan2025 01:09:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 left the game
+[06Jan2025 01:09:55.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAFITO_06[/[::1]:33094] logged in with entity id 6746 at (-102.73303299387909, 94.28549238931866, -116.22564247665645)
+[06Jan2025 01:09:55.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 joined the game
