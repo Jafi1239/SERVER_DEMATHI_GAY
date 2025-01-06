@@ -4102,3 +4102,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 01:50:14.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD left the game
 [06Jan2025 01:50:25.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxfenixXD[/[::1]:45776] logged in with entity id 18196 at (204.5, 81.0, -143.5)
 [06Jan2025 01:50:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD joined the game
+[06Jan2025 01:51:25.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxfenixXD lost connection: Timed out
+[06Jan2025 01:51:25.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD left the game
+[06Jan2025 01:53:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Knowledge of Death]
+[06Jan2025 01:53:28.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [A Strange Grave Dust]
+[06Jan2025 01:55:00.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Neighborhood Brawl]
+[06Jan2025 01:57:00.824] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[06Jan2025 01:57:00.825] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[06Jan2025 01:57:00.825] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[06Jan2025 01:57:00.825] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[06Jan2025 01:57:00.856] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[06Jan2025 01:57:00.857] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[06Jan2025 01:57:00.857] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[06Jan2025 01:57:00.857] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[06Jan2025 01:57:03.198] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[06Jan2025 01:57:03.198] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[06Jan2025 01:57:03.199] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[06Jan2025 01:57:03.200] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[06Jan2025 01:57:03.200] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[06Jan2025 01:57:03.200] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[06Jan2025 01:57:03.201] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[06Jan2025 01:57:03.296] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[06Jan2025 01:57:03.296] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[06Jan2025 01:57:03.297] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[06Jan2025 01:57:03.297] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[06Jan2025 01:57:03.297] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[06Jan2025 01:57:12.031] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=331, y=91, z=-469}
+[06Jan2025 01:57:13.404] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=331, y=91, z=-469} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[06Jan2025 01:57:13.404] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=331, y=91, z=-469}
+[06Jan2025 02:00:04.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxfenixXD[/[::1]:53390] logged in with entity id 20950 at (204.5, 81.0, -143.5)
+[06Jan2025 02:00:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD joined the game
+[06Jan2025 02:01:34.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuxfenixXD> oe
+[06Jan2025 02:01:42.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> si?
+[06Jan2025 02:01:45.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuxfenixXD> mañana podes jugar?
+[06Jan2025 02:01:47.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuxfenixXD> te digo
+[06Jan2025 02:01:51.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuxfenixXD> para asi ir a boblox
+[06Jan2025 02:01:52.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> si, en la tarde
+[06Jan2025 02:01:56.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> XD
+[06Jan2025 02:02:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> yaaaa...
+[06Jan2025 02:02:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuxfenixXD> mañana asi hacer la casa y equiparnos a full
+[06Jan2025 02:04:39.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has made the advancement [A Strange Grave Dust]
+[06Jan2025 02:04:50.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has completed the challenge [+PARRY]
+[06Jan2025 02:05:24.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD was squashed by a falling anvil
+[06Jan2025 02:05:24.346] [Server thread/INFO] [tombstone/]: The player LuxfenixXD has successfully been saved
+[06Jan2025 02:05:52.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21609, l='ServerLevel[world]', x=287.70, y=79.00, z=1.30] died, message: 'Villager was slain by The Hunter'
+[06Jan2025 02:11:35.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LuxfenixXD lost connection: Timed out
+[06Jan2025 02:11:35.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD left the game
+[06Jan2025 02:24:19.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 moved wrongly!
+[06Jan2025 02:27:37.425] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a736caa[id=<null>,name=INGCUCHILLO,properties={},legacy=false] (/[::1]:56182) lost connection: Timed out
