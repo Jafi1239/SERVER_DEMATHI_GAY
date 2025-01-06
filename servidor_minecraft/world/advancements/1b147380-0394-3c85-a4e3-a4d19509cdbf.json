@@ -156,6 +156,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-06 03:24:53 +0000",
       "apple": "2025-01-06 03:19:11 +0000",
       "potato": "2025-01-06 03:18:49 +0000"
     },
@@ -188,6 +189,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-01-06 02:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-06 03:21:24 +0000"
     },
     "done": true
   },

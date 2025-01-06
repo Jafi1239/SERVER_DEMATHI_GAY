@@ -4188,3 +4188,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:17:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Sweet Dreams]
 [06Jan2025 03:18:13.628] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42814d7e[id=<null>,name=skrilldasher,properties={},legacy=false] (/[::1]:36352) lost connection: Timed out
 [06Jan2025 03:21:11.778] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1014d8ad[id=<null>,name=skrilldasher,properties={},legacy=false] (/[::1]:34046) lost connection: Timed out
+[06Jan2025 03:21:57.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has completed the challenge [I'm not sugar coating it]
+[06Jan2025 03:22:09.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Ashes 'n Bones]
+[06Jan2025 03:22:20.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has completed the challenge [Kidney stones lookin ore]
+[06Jan2025 03:23:37.284] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17a4d2de[id=<null>,name=skrilldasher,properties={},legacy=false] (/[::1]:53896) lost connection: Timed out
+[06Jan2025 03:23:59.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 moved wrongly!
+[06Jan2025 03:24:36.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INGCUCHILLO moved wrongly!
+[06Jan2025 03:25:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> rave
