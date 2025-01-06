@@ -4315,3 +4315,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:19:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
 [06Jan2025 04:20:16.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
 [06Jan2025 04:20:46.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 04:23:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Monster Hunter]
+[06Jan2025 04:24:28.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Suit Up]
+[06Jan2025 04:25:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Ambush]
+[06Jan2025 04:28:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Mutual Aid]
+[06Jan2025 04:28:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 was doomed to fall by Death Tome
+[06Jan2025 04:28:51.733] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:29:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:29:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Knowledge of Death]
+[06Jan2025 04:29:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has reached the goal [Strong or Careful]
+[06Jan2025 04:29:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO was at a loss for words after being killed by Death Tome
+[06Jan2025 04:29:07.381] [Server thread/INFO] [tombstone/]: The player INGCUCHILLO has successfully been saved
+[06Jan2025 04:29:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 04:30:53.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 succumbed to the Lich's explosive magic while escaping Skeleton
+[06Jan2025 04:30:53.789] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:30:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Not Today, Thank You]
+[06Jan2025 04:31:05.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:31:40.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has reached the goal [Chain Death]
+[06Jan2025 04:31:40.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 succumbed to the Lich's explosive magic while escaping Zombie
+[06Jan2025 04:31:40.636] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:31:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:32:12.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]

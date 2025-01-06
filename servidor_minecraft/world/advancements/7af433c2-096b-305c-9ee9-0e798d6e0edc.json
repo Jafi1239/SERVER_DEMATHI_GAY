@@ -213,6 +213,7 @@
       "beef": "2025-01-06 01:08:06 +0000",
       "bread": "2025-01-06 01:18:42 +0000",
       "cookie": "2025-01-06 02:16:50 +0000",
+      "rotten_flesh": "2025-01-06 04:30:25 +0000",
       "cooked_chicken": "2025-01-06 02:50:44 +0000"
     },
     "done": false
@@ -238,6 +239,12 @@
   "undead_revamp2:oneskelly": {
     "criteria": {
       "oneskelly": "2025-01-06 03:22:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 04:25:39 +0000"
     },
     "done": true
   },
@@ -287,6 +294,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-06 01:23:48 +0000",
       "minecraft:spider": "2025-01-06 01:23:22 +0000",
+      "minecraft:witch": "2025-01-06 04:25:39 +0000",
       "minecraft:enderman": "2025-01-06 01:13:58 +0000",
       "minecraft:zombie": "2025-01-06 04:21:12 +0000"
     },
@@ -331,6 +339,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-01-06 03:22:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 04:28:08 +0000"
     },
     "done": true
   },
