@@ -134,6 +134,7 @@
       "minecraft:grove": "2025-01-06 01:06:26 +0000",
       "minecraft:jagged_peaks": "2025-01-06 02:42:51 +0000",
       "minecraft:forest": "2025-01-06 00:41:55 +0000",
+      "minecraft:jungle": "2025-01-06 03:46:01 +0000",
       "minecraft:plains": "2025-01-06 01:15:07 +0000"
     },
     "done": false
@@ -222,6 +223,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-01-06 04:01:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-01-06 01:55:00 +0000"
@@ -258,6 +265,18 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-06 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-01-06 04:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-06 01:28:27 +0000"
@@ -290,9 +309,21 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-01-06 03:58:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-06 01:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-06 03:55:27 +0000"
     },
     "done": true
   },
@@ -301,6 +332,12 @@
       "coded_trigger": "2025-01-06 03:22:09 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-01-06 04:01:42 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

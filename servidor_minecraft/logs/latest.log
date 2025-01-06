@@ -4205,3 +4205,109 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:41:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported skrilldasher to JAFITO_06]
 [06Jan2025 03:41:12.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAFITO_06> ho la
 [06Jan2025 03:42:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher has made the advancement [Alex's Mobs]
+[06Jan2025 03:43:27.960] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:on_underground_cabin_maps (alexscaves:underground_cabin) took 0 ms
+[06Jan2025 03:43:37.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to 384.500000, 100.000000, -127.500000]
+[06Jan2025 03:43:55.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Spectator Mode]
+[06Jan2025 03:45:41.475] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #betterjungletemples:better_jungle_temples (betterjungletemples:jungle_temple) took 540 ms
+[06Jan2025 03:46:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to -1775.500000, 90.749999, -2623.500000]
+[06Jan2025 03:46:01.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12982ms or 259 ticks behind
+[06Jan2025 03:46:01.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skrilldasher moved too quickly! 8.93126153131368,2.0,4.39370468874597
+[06Jan2025 03:46:01.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INGCUCHILLO moved too quickly! 6.597446097853208,-1.8309762024129839,-7.326012663718775
+[06Jan2025 03:46:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 03:47:08.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 03:47:17.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher was slain by Zombie
+[06Jan2025 03:47:17.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher has made the advancement [Your First Grave]
+[06Jan2025 03:47:17.117] [Server thread/INFO] [tombstone/]: The player skrilldasher has successfully been saved
+[06Jan2025 03:47:17.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skrilldasher lost connection: Timed out
+[06Jan2025 03:47:17.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher left the game
+[06Jan2025 03:48:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Acquire Hardware]
+[06Jan2025 03:49:10.764] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47543, l='ServerLevel[world]', x=-1692.50, y=74.00, z=-2612.50]
+[06Jan2025 03:50:44.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48015, l='ServerLevel[world]', x=-1772.50, y=72.00, z=-2499.50]
+[06Jan2025 03:51:09.615] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48127, l='ServerLevel[world]', x=-1693.50, y=74.00, z=-2614.50]
+[06Jan2025 03:52:14.163] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48450, l='ServerLevel[world]', x=-1768.50, y=72.00, z=-2569.50]
+[06Jan2025 03:52:41.466] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48680, l='ServerLevel[world]', x=-1676.50, y=70.00, z=-2601.50]
+[06Jan2025 03:52:42.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Stone Age]
+[06Jan2025 03:52:43.114] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48701, l='ServerLevel[world]', x=-1749.50, y=73.00, z=-2581.50]
+[06Jan2025 03:53:04.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Acquire Hardware]
+[06Jan2025 03:53:23.414] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48978, l='ServerLevel[world]', x=-1677.50, y=70.00, z=-2601.50]
+[06Jan2025 03:53:50.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49086, l='ServerLevel[world]', x=-1749.50, y=73.00, z=-2582.50]
+[06Jan2025 03:54:28.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49285, l='ServerLevel[world]', x=-1772.50, y=72.00, z=-2500.50]
+[06Jan2025 03:54:54.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
+[06Jan2025 03:55:19.414] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49758, l='ServerLevel[world]', x=-1693.50, y=74.00, z=-2613.50]
+[06Jan2025 03:55:27.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Diamonds!]
+[06Jan2025 03:56:09.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50158, l='ServerLevel[world]', x=-1771.50, y=69.00, z=-2536.50]
+[06Jan2025 03:57:13.716] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50462, l='ServerLevel[world]', x=-1677.50, y=74.00, z=-2617.50]
+[06Jan2025 03:57:23.914] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50507, l='ServerLevel[world]', x=-1712.50, y=74.00, z=-2601.50]
+[06Jan2025 03:58:02.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50651, l='ServerLevel[world]', x=-1654.50, y=72.00, z=-2606.50]
+[06Jan2025 03:58:06.364] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50665, l='ServerLevel[world]', x=-1653.50, y=72.00, z=-2604.50]
+[06Jan2025 03:58:21.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 03:58:33.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 03:59:00.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4595ms or 91 ticks behind
+[06Jan2025 03:59:00.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: INGCUCHILLO moved too quickly! -12978.277543841996,-65.92159999847412,-18139.83819978361
+[06Jan2025 04:01:16.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skrilldasher[/[::1]:45390] logged in with entity id 66993 at (364.4884417818448, 87.0, -187.65333469058953)
+[06Jan2025 04:01:16.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher joined the game
+[06Jan2025 04:01:42.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has reached the goal [Time To Even The Scales]
+[06Jan2025 04:01:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [The Silence of the Forest]
+[06Jan2025 04:01:42.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has reached the goal [Time To Even The Scales]
+[06Jan2025 04:01:52.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skrilldasher was kicked for floating too long!
+[06Jan2025 04:01:52.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skrilldasher lost connection: Flying is not enabled on this server
+[06Jan2025 04:01:52.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher left the game
+[06Jan2025 04:02:10.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skrilldasher[/[::1]:53300] logged in with entity id 67616 at (-1.5532528723595258, 97.28549238931866, 8.876312223569151)
+[06Jan2025 04:02:10.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher joined the game
+[06Jan2025 04:05:48.575] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-539}
+[06Jan2025 04:05:50.324] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-536}
+[06Jan2025 04:05:50.324] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-537}
+[06Jan2025 04:05:50.325] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-535}
+[06Jan2025 04:05:50.325] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-533}
+[06Jan2025 04:05:50.326] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-537}
+[06Jan2025 04:05:50.327] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-536}
+[06Jan2025 04:05:50.327] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-535}
+[06Jan2025 04:05:50.327] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-537}
+[06Jan2025 04:05:50.327] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-536}
+[06Jan2025 04:05:50.327] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-535}
+[06Jan2025 04:05:50.331] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[06Jan2025 04:05:50.331] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[06Jan2025 04:05:56.529] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[06Jan2025 04:05:56.530] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[06Jan2025 04:05:56.530] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[06Jan2025 04:05:56.569] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[06Jan2025 04:06:02.028] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-536}
+[06Jan2025 04:06:02.028] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-537}
+[06Jan2025 04:06:02.029] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-535}
+[06Jan2025 04:06:02.029] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-539}
+[06Jan2025 04:06:02.029] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-533}
+[06Jan2025 04:06:02.030] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-537}
+[06Jan2025 04:06:02.030] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-536}
+[06Jan2025 04:06:02.031] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-535}
+[06Jan2025 04:06:02.031] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-537}
+[06Jan2025 04:06:02.032] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-536}
+[06Jan2025 04:06:02.032] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-535}
+[06Jan2025 04:06:05.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[06Jan2025 04:06:05.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[06Jan2025 04:06:05.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[06Jan2025 04:06:05.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[06Jan2025 04:06:05.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[06Jan2025 04:06:05.505] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[06Jan2025 04:06:19.167] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[06Jan2025 04:06:21.057] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[06Jan2025 04:06:21.058] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[06Jan2025 04:06:23.855] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-536}
+[06Jan2025 04:06:23.855] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-537}
+[06Jan2025 04:06:23.856] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-535}
+[06Jan2025 04:06:23.856] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-539}
+[06Jan2025 04:06:23.856] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-533}
+[06Jan2025 04:06:23.856] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-537}
+[06Jan2025 04:06:23.857] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-536}
+[06Jan2025 04:06:23.857] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-535}
+[06Jan2025 04:06:23.857] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-537}
+[06Jan2025 04:06:23.858] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-536}
+[06Jan2025 04:06:23.858] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-535}
+[06Jan2025 04:06:28.606] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[06Jan2025 04:06:28.607] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[06Jan2025 04:06:47.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71700, l='ServerLevel[world]', x=633.57, y=141.94, z=-588.57] died, message: 'Villager suffocated in a wall'
+[06Jan2025 04:09:44.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
+[06Jan2025 04:10:06.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 04:10:11.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skrilldasher lost connection: Timed out
+[06Jan2025 04:10:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher left the game
+[06Jan2025 04:11:01.375] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@494f5011[id=<null>,name=skrilldasher,properties={},legacy=false] (/[::1]:56896) lost connection: Timed out
+[06Jan2025 04:11:37.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56a34d0f[id=<null>,name=skrilldasher,properties={},legacy=false] (/[::1]:42330) lost connection: Timed out
