@@ -287,7 +287,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-06 01:23:48 +0000",
       "minecraft:spider": "2025-01-06 01:23:22 +0000",
-      "minecraft:enderman": "2025-01-06 01:13:58 +0000"
+      "minecraft:enderman": "2025-01-06 01:13:58 +0000",
+      "minecraft:zombie": "2025-01-06 04:21:12 +0000"
     },
     "done": false
   },

@@ -4311,3 +4311,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:10:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skrilldasher left the game
 [06Jan2025 04:11:01.375] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@494f5011[id=<null>,name=skrilldasher,properties={},legacy=false] (/[::1]:56896) lost connection: Timed out
 [06Jan2025 04:11:37.134] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56a34d0f[id=<null>,name=skrilldasher,properties={},legacy=false] (/[::1]:42330) lost connection: Timed out
+[06Jan2025 04:16:53.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [The Silence of the Forest]
+[06Jan2025 04:19:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
+[06Jan2025 04:20:16.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 04:20:46.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
