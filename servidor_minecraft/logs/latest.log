@@ -4355,3 +4355,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:39:48.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than JAFITO_06
 [06Jan2025 04:39:48.984] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
 [06Jan2025 04:40:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:44:00.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO was slain by Zombie
+[06Jan2025 04:44:00.178] [Server thread/INFO] [tombstone/]: The player INGCUCHILLO has successfully been saved
+[06Jan2025 04:45:17.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 04:45:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO fell from a high place
+[06Jan2025 04:45:44.328] [Server thread/INFO] [tombstone/]: The player INGCUCHILLO has successfully been saved
+[06Jan2025 04:46:33.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
+[06Jan2025 04:48:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 succumbed to the Lich's explosive magic while escaping Lich Minion
+[06Jan2025 04:48:05.633] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:48:07.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO was at a loss for words after being killed by Death Tome
+[06Jan2025 04:48:07.187] [Server thread/INFO] [tombstone/]: The player INGCUCHILLO has successfully been saved
+[06Jan2025 04:48:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:49:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to -14606.500000, 48.000000, -20230.500000]
+[06Jan2025 04:49:01.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10171ms or 203 ticks behind
+[06Jan2025 04:49:06.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
+[06Jan2025 04:50:25.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[06Jan2025 04:50:49.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to -14606.500000, 48.000000, -20230.500000]
+[06Jan2025 04:50:59.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has reached the goal [Easy Opening]
+[06Jan2025 04:51:33.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 04:51:44.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported INGCUCHILLO to JAFITO_06]
