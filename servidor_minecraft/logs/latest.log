@@ -4006,3 +4006,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 00:42:08.762] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-607}
 [06Jan2025 00:48:54.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 lost connection: Timed out
 [06Jan2025 00:48:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 left the game
+[06Jan2025 00:51:08.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAFITO_06[/[::1]:54860] logged in with entity id 2504 at (-33.529202347934195, 114.0, 0.12753176378618128)
+[06Jan2025 00:51:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 joined the game
+[06Jan2025 00:52:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 fell from a high place
+[06Jan2025 00:52:01.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Your First Grave]
+[06Jan2025 00:52:01.588] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 00:52:05.903] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-612}
+[06Jan2025 00:52:05.904] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-607}
+[06Jan2025 00:52:14.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Alex's Mobs]
+[06Jan2025 00:52:18.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has reached the goal [Here They Come]
+[06Jan2025 00:57:30.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LuxfenixXD[/[::1]:48936] logged in with entity id 3776 at (-19.5, 107.0, 19.5)
+[06Jan2025 00:57:30.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD joined the game
+[06Jan2025 00:57:30.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has made the advancement [Ice and Fire]
+[06Jan2025 00:57:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuxfenixXD has completed the challenge [The Undead]
+[06Jan2025 00:58:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LuxfenixXD> aguanta
+[06Jan2025 00:59:16.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 was slain by Goblin Thief
+[06Jan2025 00:59:16.184] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
