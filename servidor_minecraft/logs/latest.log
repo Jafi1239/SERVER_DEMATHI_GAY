@@ -4336,3 +4336,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:31:40.636] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
 [06Jan2025 04:31:53.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
 [06Jan2025 04:32:12.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
+[06Jan2025 04:33:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 04:33:46.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 has made the advancement [Not Today, Thank You]
+[06Jan2025 04:35:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 was shot by Skeleton
+[06Jan2025 04:35:23.591] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:35:39.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:36:26.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 succumbed to the Lich's explosive magic
+[06Jan2025 04:36:26.487] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:36:26.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 moved wrongly!
+[06Jan2025 04:36:39.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:36:55.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Creative Mode]
+[06Jan2025 04:37:08.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [A Strange Grave Dust]
+[06Jan2025 04:37:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Set own game mode to Survival Mode]
+[06Jan2025 04:38:19.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 succumbed to the Lich's explosive magic while escaping Zombie
+[06Jan2025 04:38:19.840] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:38:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
+[06Jan2025 04:39:03.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: INGCUCHILLO has made the advancement [Ashes 'n Bones]
+[06Jan2025 04:39:48.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than JAFITO_06
+[06Jan2025 04:39:48.984] [Server thread/INFO] [tombstone/]: The player JAFITO_06 has successfully been saved
+[06Jan2025 04:40:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAFITO_06: Teleported JAFITO_06 to INGCUCHILLO]
