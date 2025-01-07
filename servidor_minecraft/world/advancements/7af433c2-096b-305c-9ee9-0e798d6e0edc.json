@@ -135,6 +135,7 @@
       "minecraft:swamp": "2025-01-06 04:49:02 +0000",
       "minecraft:jagged_peaks": "2025-01-06 02:42:51 +0000",
       "minecraft:forest": "2025-01-06 00:41:55 +0000",
+      "minecraft:desert": "2025-01-06 05:06:06 +0000",
       "minecraft:jungle": "2025-01-06 03:46:01 +0000",
       "minecraft:plains": "2025-01-06 01:15:07 +0000"
     },
@@ -219,108 +220,6 @@
     },
     "done": false
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-01-06 03:01:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2025-01-06 04:53:48 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "naga": "2025-01-06 04:01:42 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-01-06 01:55:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-01-06 04:33:46 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:oneskelly": {
-    "criteria": {
-      "oneskelly": "2025-01-06 03:22:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2025-01-06 04:53:48 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-06 04:25:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-01-06 01:53:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-06 01:21:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-06 01:22:07 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat": "2025-01-06 03:21:57 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2025-01-06 04:54:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2025-01-06 04:53:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-06 03:48:01 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-01-06 04:01:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-01-06 01:28:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-06 01:23:48 +0000",
@@ -337,39 +236,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/easy_opening": {
-    "criteria": {
-      "coded_trigger": "2025-01-06 04:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-06 01:16:50 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "coded_trigger": "2025-01-06 04:31:40 +0000"
+      "get_stone": "2025-01-06 01:21:41 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_undead": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "coded_trigger": "2025-01-06 04:53:48 +0000"
+      "stone_pickaxe": "2025-01-06 01:22:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "coded_trigger": "2025-01-06 02:34:50 +0000"
+      "slept_in_bed": "2025-01-06 01:28:27 +0000"
     },
     "done": true
   },
-  "twilightforest:root": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "make_portal": "2025-01-06 03:58:04 +0000"
+      "from_undead": "2025-01-06 01:53:28 +0000"
     },
     "done": true
   },
@@ -379,9 +272,27 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "diamond": "2025-01-06 03:55:27 +0000"
+      "coded_trigger": "2025-01-06 01:55:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 02:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-06 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2025-01-06 03:21:57 +0000"
     },
     "done": true
   },
@@ -391,9 +302,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/mutual_aid": {
+  "undead_revamp2:oneskelly": {
     "criteria": {
-      "coded_trigger": "2025-01-06 04:28:08 +0000"
+      "oneskelly": "2025-01-06 03:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-06 03:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-06 03:55:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-01-06 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2025-01-06 04:01:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-01-06 04:01:42 +0000"
     },
     "done": true
   },
@@ -401,6 +342,78 @@
     "criteria": {
       "kill_lich": "2025-01-06 04:53:48 +0000",
       "kill_naga": "2025-01-06 04:01:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 04:25:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 04:28:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 04:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-06 04:33:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 04:50:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-01-06 04:53:48 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-01-06 04:53:48 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-01-06 04:53:48 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 04:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-01-06 04:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-06 05:03:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-07 23:24:39 +0000"
     },
     "done": true
   },

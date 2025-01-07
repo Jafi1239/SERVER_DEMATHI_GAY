@@ -35,11 +35,23 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "naga": "2025-01-06 04:16:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
@@ -52,6 +64,12 @@
       "has_recipe": "2025-01-06 02:48:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -112,6 +130,24 @@
       "has_recipe": "2025-01-06 02:48:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_yeti": {
     "criteria": {
@@ -192,6 +228,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-06 03:41:28 +0000",
@@ -200,8 +242,15 @@
       "minecraft:stony_shore": "2025-01-06 02:58:31 +0000",
       "minecraft:grove": "2025-01-06 02:55:39 +0000",
       "minecraft:forest": "2025-01-06 02:48:59 +0000",
+      "minecraft:desert": "2025-01-06 05:06:20 +0000",
       "minecraft:jungle": "2025-01-06 03:47:09 +0000",
       "minecraft:plains": "2025-01-06 03:03:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
     },
     "done": false
   },
@@ -210,6 +259,12 @@
       "placeables": "2025-01-06 02:48:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
@@ -260,6 +315,12 @@
       "consumed_item": "2025-01-06 03:18:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:root": {
     "criteria": {
@@ -314,6 +375,18 @@
       "has_recipe": "2025-01-06 02:48:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 05:09:03 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_lich": {
     "criteria": {
