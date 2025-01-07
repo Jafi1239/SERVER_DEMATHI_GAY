@@ -611,3 +611,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 23:26:31.967] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
 [07Jan2025 23:27:24.292] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
 [07Jan2025 23:27:24.466] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[07Jan2025 23:29:54.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAFITO_06 lost connection: Disconnected
+[07Jan2025 23:29:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAFITO_06 left the game
